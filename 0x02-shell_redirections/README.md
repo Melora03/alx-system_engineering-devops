@@ -1,1 +1,1 @@
-sell direction
+shell direction
