@@ -1,1 +1,1 @@
-alias projects
+combinations
